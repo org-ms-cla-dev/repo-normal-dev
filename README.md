@@ -25,38 +25,3 @@ Yeah
 
 
 # Synchronize event seems not work properly.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-big change    
