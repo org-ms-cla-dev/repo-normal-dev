@@ -26,29 +26,3 @@ Yeah
 
 # Synchronize event seems not work properly.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Make it bigger
